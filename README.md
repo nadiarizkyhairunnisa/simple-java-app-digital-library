@@ -1,5 +1,5 @@
 ## Simple App: Digital Library 
-Aplikasi untuk menyimpan informasi buku menggunakan CRUD
+Aplikasi untuk menyimpan informasi buku menggunakan CRUD. Dibuat untuk memenuhi syarat sertifikasi Junior Programmer BNSP
 
 Programming Language: Java
 Interface: Java GUI
